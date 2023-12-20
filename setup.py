@@ -8,7 +8,7 @@ from setuptools import find_packages, setup
 # Package meta-data.
 NAME = 'tid-classification-model'
 DESCRIPTION = "Example classification model package from Train In Data."
-URL = "https://github.com/trainindata/testing-and-monitoring-ml-deployments"
+URL = "https://github.com/LoSiuVincent/titantic-production"
 EMAIL = "lovincent536@gmail.com"
 AUTHOR = "LoVincent"
 REQUIRES_PYTHON = ">=3.6.0"
